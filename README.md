@@ -141,7 +141,7 @@ C:\> ping 192.168.3.2
 
 ## 📤 OUTPUT
 ---
-<img width="972" height="487" alt="image" src="https://github.com/user-attachments/assets/dbb66617-e002-49e9-aba7-4051c2831995" />
+<img width="1920" height="1080" alt="514725096-ad5e0d17-a8b2-41d5-b780-e414201c079c" src="https://github.com/user-attachments/assets/dacfd0e3-0a08-47cb-93a9-d8f1ea956823" />
 
 ## 📝 RESULT
 Thus, the computers in multiple networks using Distance Vector Routing Protocol are successfully connected and the connectivity between them is verified.
